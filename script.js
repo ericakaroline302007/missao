@@ -10,12 +10,13 @@ const perguntas = [
         alternativas: [
             {
                 texto: "a) Aumenta a biodiversidade.",
-                afirmacao: ""
+                afirmacao: "A preservação das florestas ajuda a aumentar a biodiversidade ao
+Fornecer habitat para uma ampla gama de espécies animais e vegetais."
             },
             {
-                texto: "b) Redução do nível de poluição sonora.",
+                texto: "b) Reduz a tempertura local.",
 
-                afirmacao: alternativa a: "A preservação das florestas contribui para o aumento da biodiversidade ao fornecer habitats diversos para uma grande variedade de espécies animais e vegetais."
+                afirmacao:"As florestas também desempenham um papel na redução da temperatura local, criando um microclima mais fresco através da evapotranspiração e fornecendo sombra."
 
             }
            
@@ -25,13 +26,13 @@ const perguntas = [
         enunciado: "Qual prática pode ser vantajosa para a conservação da água.?",
         alternativas: [
             {
-                texto: "a) Uso de sistemas de irrigação por gotejamento.",
-                afirmacao: "afirmacao3"
+                texto: "a) Implementação de sistemas de captação de água da chuva."
+                afirmacao: "A implementação de sistemas de captação de água da chuva permite armazenar e reutilizar água, contribuindo para a conservação dos recursos hídricos."
             },
             {
-                texto:b) Aumento do uso de água em áreas agrícolas.",
+                texto:"b) Uso de produtos químicos para purificação.",
             
-                afirmacao: "alternativa a: O uso de sistemas de irrigação por gotejamento é vantajoso para a conservação da água, pois entrega água diretamente às raízes das plantas, reduzindo o desperdício e melhorando a eficiência do uso da água.
+                afirmacao: "Embora o uso de produtos químicos para purificação possa melhorar a qualidade da água, não é uma estratégia direta para conservar água, mas sim para trata-la e garantir sua potabilidade."
 
 "
             }
@@ -39,17 +40,18 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: "Qual é um impacto da poluição plástica nos oceanos?."
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                afirmacao:"afirmacao5"
+                texto: "a) Aumento da proliferação de algas.",
+                afirmacao:"A  poluição plástica pode, indiretamente, contribuir para o aumento da proliferação de algas ao fornecer uma superfície onde essas algas podem crescer, alterando os ecossistemas marinhos."
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao:"afirmacao6"
+                texto: "b) Danos à vida marinha.",
+                afirmacao:"A poluição plástica causa danos diretos à vida marinha, com animais marinhos consumindo ou ficando presos em detritos plásticos, o que pode levar a ferimentos ou morte."
             }
-        ]alternativa a: O uso de sistemas de irrigação por gotejamento é vantajoso para a conservação da água, pois entrega água diretamente às raízes das plantas, reduzindo o desperdício e melhorando a eficiência do uso da água.
+        (resumo) : A conservação ambiental é essencial para a saúde do nosso planeta e a preservação de seus recursos naturais. As florestas são vitais não apenas para aumentar a biodiversidade, mas também para reduzir a temperatura local, criando ambientes mais equilibrados. Para a conservação da água, sistemas de captação de água da chuva são uma prática eficaz que permite a reutilização e a conservação dos recursos hídricos. No contexto da poluição plástica, embora a poluição possa contribuir para o crescimento de algas em alguns casos, seu impacto mais crítico é o dano direto à vida marinha, prejudicando ecossistemas e a saúde dos animais. Compreender esses aspectos é
+Fundamental para adotar práticas sustentáveis e promover um futuro mais verde.
 
 
     }
