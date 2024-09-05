@@ -6,29 +6,34 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "Qual é um benefício importante da preservação das florestas.?"
         alternativas: [
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "afirmacao1"
+                texto: "a) Aumenta a biodiversidade.",
+                afirmacao: ""
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "afirmacao2"
+                texto: "b) Redução do nível de poluição sonora.",
+
+                afirmacao: alternativa a: "A preservação das florestas contribui para o aumento da biodiversidade ao fornecer habitats diversos para uma grande variedade de espécies animais e vegetais."
+
             }
            
         ]
     },
     {
-        enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+        enunciado: "Qual prática pode ser vantajosa para a conservação da água.?",
         alternativas: [
             {
-                texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+                texto: "a) Uso de sistemas de irrigação por gotejamento.",
                 afirmacao: "afirmacao3"
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                afirmacao: "afirmacao4"
+                texto:b) Aumento do uso de água em áreas agrícolas.",
+            
+                afirmacao: "alternativa a: O uso de sistemas de irrigação por gotejamento é vantajoso para a conservação da água, pois entrega água diretamente às raízes das plantas, reduzindo o desperdício e melhorando a eficiência do uso da água.
+
+"
             }
            
         ]
@@ -44,13 +49,17 @@ const perguntas = [
                 texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
                 afirmacao:"afirmacao6"
             }
-        ]
+        ]alternativa a: O uso de sistemas de irrigação por gotejamento é vantajoso para a conservação da água, pois entrega água diretamente às raízes das plantas, reduzindo o desperdício e melhorando a eficiência do uso da água.
+
+
     }
 ];
 
 let atual = 0;
 let perguntaAtual;
-let historiaFinal = "";
+let historiaFinal = "";alternativa a: O uso de sistemas de irrigação por gotejamento é vantajoso para a conservação da água, pois entrega água diretamente às raízes das plantas, reduzindo o desperdício e melhorando a eficiência do uso da água.
+
+
 
 function mostraPergunta () {
    if (atual >= perguntas. length) i
